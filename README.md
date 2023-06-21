@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Selva-AK
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning BCA in computer Applications
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me selvaak008@gamil.com
 
 <!---
