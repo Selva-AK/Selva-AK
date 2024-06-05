@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Selva-AK
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning BCA in computer Applications
+- 🌱 I’m working in MaistroSoft Solutions
 - 📫 How to reach me selvaak008@gamil.com
 
 <!---
