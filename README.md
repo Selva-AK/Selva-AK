@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Selva-AK
 - 👀 I’m interested in Software Development
-- 🌱 I’m working in MaistroSoft Solutions
+- 🌱 I’m working in ImagiNET Ventures. 
 - 📫 How to reach me selvaak008@gamil.com
 
 <!---
